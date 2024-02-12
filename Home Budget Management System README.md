@@ -1,8 +1,8 @@
-##Home Budget System
+#Home Budget System
 
 This is a simple Python program for managing your home budget. It allows you to keep track of your expenses as you buy various grocery items.
 
-##Features
+#Features
 
 Maintain a total revenue of $40000.
 
@@ -12,7 +12,7 @@ View the remaining budget after each purchase.
 
 Exit the program anytime.
 
-##Example
+#Example
 
 Enter item name (or "exit" to quit): Toothpaste
 
